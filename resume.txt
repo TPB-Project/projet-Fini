@@ -1,0 +1,23 @@
+Participants :
+ - Pottier Loïc
+ - Duchateau Enzo
+ - Dedrie Louis
+ - Duriez Adrien
+ - Duquesne Guillaume
+
+Avancement du projet :
+ Le jeu est lançable avec les noms des joueurs à taper dans la console
+ Le premier ne peut etre placé qu'au centre et les joueurs choisisent ensuite librement l'emplacement
+ La victoire avec alignement est gérée en vertical, horizontal et en diagonal(d'en haut a droite jusqu'en bas a droite)
+ 
+Pour lancer le jeu:
+ Le compiler en se placant dans le dossier ou les .java sont stockés avec javac *.java
+ executer le Main avec java Main
+ ensuite taper les deux noms de joueur dans la console quand ils sont demandés
+
+Répartition du travail :
+ Loïc : 45%
+ Enzo : 25%
+ Adrien : 10%
+ Louis : 10%
+ Guillaume : 10%
